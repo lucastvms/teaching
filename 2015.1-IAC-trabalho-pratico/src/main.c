@@ -36,7 +36,7 @@ int main (int argc, char *argv[], char *envp[])
         printf("\nPARENT'S PROCESS\n");
         
         wait(NULL);
-        signal(SIGALRM, (void(*)(int))handler_alarm); */
+        signal(SIGALRM, (void(*)(int))handler_alarm);
 
 	//TODO guarde a cada segundo o consumo de memória (em Kilobytes) e CPU (em porcentagem) do processo filho
 	//TODO após 10 segundos de execução, mate o proceso filho
