@@ -1,6 +1,6 @@
 # Identificação
 
-* Página do repositório do trabalho ([link GitHub](Thttps://github.com/lucastvms/teaching/tree/master/2015.1-IAC-trabalho-pratico)) 
+* Página do repositório do trabalho ([link GitHub](https://github.com/lucastvms/teaching/tree/master/2015.1-IAC-trabalho-pratico)) 
 
 * Discente 1
 	* Nome: Lucas Tadeu Vieira Moura de Santana
