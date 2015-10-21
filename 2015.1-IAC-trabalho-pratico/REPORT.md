@@ -32,7 +32,7 @@
 
 **Observação 2: Dados das porcentagens de uso de tempo de cpu, são médias aproximadas.
 
-##Links dos Gráficos em R do Experimento de Uso Intenso de Cpu e Memória:
+##Links dos Gráficos em R do Experimento de Uso Intenso de Cpu:
  *Uploaded in Imgur.com
   -Gráfico (Segundos x tempo de processamento modo usuário): http://imgur.com/ZaIsEuF
   -Gráfico (Segundos x tempo de processamento modo sistema): http://imgur.com/777AdvV
