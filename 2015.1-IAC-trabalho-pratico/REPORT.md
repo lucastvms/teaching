@@ -1,6 +1,6 @@
 # Identificação
 
-* Página do repositório do trabalho ([link GitHub](TODO)) 
+* Página do repositório do trabalho ([link GitHub](Thttps://github.com/lucastvms/teaching/tree/master/2015.1-IAC-trabalho-pratico)) 
 
 * Discente 1
 	* Nome: Lucas Tadeu Vieira Moura de Santana
@@ -29,5 +29,3 @@
 * AVALIAÇÃO DO TESTE DE CONSUMO DE CPU: Obtivemos resultados bastante interessantes, que reforçam o conhecimento obtido durante as aulas teóricas. Devido a adição da função malloc() pudemos observar como o uso do processador em modo sistema foi incrementado, pois as funções que manipulam a memória são gerenciadas por este modo privilegiado, e que, logicamente, ocasionou a diminuição do tempo de utilização da cpu em modo usuário, já que nosso processo filho, "tem tempo limite de 10 segundos". Constatamos também que: só pelo fato do processo ter que chamar continuamente o modo sistema para alocar memória, podemos ver que a diferença em tempo de uso da cpu cresceu de 5% (0,5 segundos) para, em média, 10% (1,0 segundos), 0,5 segundos de tempo de uso da cpu, o que, como já foi citado na discussão anterior, é uma eternidade para o processador. Observemos então, como apenas uma chamada do modo sistema impactou no desempenho do nosso programa. Por fim, este estudo pode ter aparentado ser simples, mas as fundações por traz do mesmo são bastante complexas. Nossos resultados não mentem, cada função que escolhemos colocar ou não em nossos programas influencia, e muito, no seu desempenho, devemos então fazer uso da Engenharia de Software para pensar na maneira mais eficaz de criar nossos programas, a fim de maximizar seu desempenho.
 
 ** Fim do relatório **
-
-[link GitHub] : <https://github.com/lucastvms/teaching/tree/master/2015.1-IAC-trabalho-pratico>
